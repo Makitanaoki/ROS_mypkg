@@ -92,4 +92,4 @@ kill [プロセス番号]
 
 ## ライセンス
 
-BSD 3-Clause icense
+BSD 3-Clause License

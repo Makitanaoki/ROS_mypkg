@@ -90,6 +90,10 @@ ps
 kill [プロセス番号]
 ```
 
+## デモ動画
+
+https://youtu.be/k9Hem1qeKVk
+
 ## ライセンス
 
 BSD 3-Clause License

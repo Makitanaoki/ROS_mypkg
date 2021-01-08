@@ -89,3 +89,7 @@ rostopic echo /twice
 ps
 kill [プロセス番号]
 ```
+
+## ライセンス
+
+BSD 3-Clause icense

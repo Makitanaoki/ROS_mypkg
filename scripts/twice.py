@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+
+#Copyright (C) 2021 Naoki Makita, Ryuichi Ueda
+
 import rospy
 from std_msgs.msg import Int32
 

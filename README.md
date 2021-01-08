@@ -45,3 +45,35 @@ chmod +x three.py
 ```
 
 #### Ⅳ 実行
+
+端末１で実行
+
+```
+roscore &
+```
+
+端末２で実行
+
+```
+rosrun test count.py
+```
+
+端末３で実行
+
+```
+rosrun test three.py
+```
+
+端末４で実行
+
+```
+rosrun test twice.py
+```
+
+#### Ⅴ 結果確認
+
+端末１で実行
+
+```
+rostopic echo /twice
+```
